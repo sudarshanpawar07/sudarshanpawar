@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Sudarshan 👋</h1>
-<h3 align="center">🚀 Aspiring SQL Developer | Java Programmer | Future Full-Stack Engineer</h3>
+<div align="center" style="background-color:#0d1117; padding: 30px 10px; border-radius: 10px;">
+
+<h1 style="color:#ffffff;">Hi, I'm Sudarshan 👋</h1>
+<h3 style="color:#58a6ff;">🚀 Aspiring SQL Developer | Java Programmer | Future Full-Stack Engineer</h3>
+
+</div>
 
 ---
 
