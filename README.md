@@ -5,7 +5,7 @@
 💡 **Tech I Work With:**
 
 - 💻 Languages: SQL, Java  
-- 🛠️ Tools: Git & GitHub, VS Code, Oracle SQL Developer  
+-   Tools: Git & GitHub, VS Code, Oracle SQL Developer  
 - 📚 Currently Learning: HTML, CSS  
 
 ---
